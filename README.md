@@ -1,5 +1,7 @@
 # Projeto Solar System
-Esse projeto foi realizado para exercitar o que foi aprendido no Bloco 10 do curso, no qual foi alguns dos conceitos básicos de React : componentes, props e composição de componentes. 
+Esse projeto foi realizado para exercitar o que foi aprendido no Bloco 10 do curso, no qual foi alguns dos conceitos básicos de React : componentes, props e composição de componentes.
+
+[Link](https://lucas-almeida-sd.github.io/Trybe-Projeto_12-Solar_System/) para acessar a página do projeto!
 
 
 # Requisitos do projeto
